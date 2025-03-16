@@ -1,0 +1,1553 @@
+[
+	{
+		"id": "1",
+		"pregunta": "QUIEN POSEE LA FERIA DE LAS RAREZAS",
+		"respuesta": "WENDY"
+	},
+	{
+		"id": "2",
+		"pregunta": "QUIEN CONTRAATACA CUANDO UN ALIADO RECIBE UN ATAQUE CRITICO ",
+		"respuesta": "HELIOS "
+	},
+	{
+		"id": "3",
+		"pregunta": "QUE CREA CELESTE EN SU FORMA OSCURA",
+		"respuesta": "LLAMA MALDITA"
+	},
+	{
+		"id": "4",
+		"pregunta": "QUE HEROE NO LLEVA UN ARMA EN CADA MANO ",
+		"respuesta": "MARKUS"
+	},
+	{
+		"id": "5",
+		"pregunta": " CUAL DE ESTOS HEROES NO LLEVA UN ARMA EN LAS MANOS ",
+		"respuesta": "ZIRI"
+	},
+	{
+		"id": "6",
+		"pregunta": "CUAL DE ESTOS HEROES ES UNA PRINCESA ",
+		"respuesta": "ASTRID"
+	},
+	{
+		"id": "7",
+		"pregunta": "A PARTIR DE QUE RANGO ESTA DISPONIBLE LA ASISTENCIA PARA MASCOTAS",
+		"respuesta": "AZUL"
+	},
+	{
+		"id": "8",
+		"pregunta": "A QUE RANGO DESBLOQUEAN LAS MASCOTAS SU HABILIDAD DE APOYO  ",
+		"respuesta": "VIOLETA "
+	},
+	{
+		"id": "9",
+		"pregunta": "COMO SE LLAMA EL PAJARO DE HIELO QUE VIVE EN NORDLAND ",
+		"respuesta": "ASTRILD "
+	},
+	{
+		"id": "10",
+		"pregunta": " QUE ERA LILITH PARA EL ARCHIDEMONIO",
+		"respuesta": "PRIMERA ESPOSA "
+	},
+	{
+		"id": "11",
+		"pregunta": " COMO SE APELLIDA CORNELIUS ",
+		"respuesta": "WITT "
+	},
+	{
+		"id": "12",
+		"pregunta": " COMO SE DESBLOQUEA UNA PEGATINA DE HEROE ",
+		"respuesta": "INVOCANDO AL HEROE "
+	},
+	{
+		"id": "13",
+		"pregunta": " COMO SE LLAMA EL VEHICULO AUTOPROPULSADO DE ISACC ",
+		"respuesta": "PEQUEÑO TES’LIN"
+	},
+	{
+		"id": "14",
+		"pregunta": "QUE JEFE DE OUTLAND VIVE EN EL CAMPAMENTO DE ESCLAVISTAS",
+		"respuesta": " BROG EL CONQUISTADOR"
+	},
+	{
+		"id": "15",
+		"pregunta": "COMO SE LLAMA UN JEFE DE OUTLAND",
+		"respuesta": " BROG EL CONQUISTADOR"
+	},
+	{
+		"id": "16",
+		"pregunta": "QUE JEFE DE OUTLAND VIVE EN EL ABISMO ABRASADOR ",
+		"respuesta": "VADJAR EL INCINERADOR"
+	},
+	{
+		"id": "17",
+		"pregunta": "QUE JEFE DE OUTLAND VIVE EN LAS CUEVAS DEL TORMENTO ",
+		"respuesta": "ILYSSA LA TEJEDORA"
+	},
+	{
+		"id": "18",
+		"pregunta": "CUANTAS FICHAS DE AMISTAD PUEDO OBTENER EN TOTAL EN UN DIA SIN TENER EN CUENTA LOS REGALOS GRUPO ",
+		"respuesta": "1000"
+	},
+	{
+		"id": "19",
+		"pregunta": "QUE OFRECE LA HABILIDAD DE ASISTENCIA A CAIN ",
+		"respuesta": "ENERGIA ADICIONAL POR ESQUIVAR"
+	},
+	{
+		"id": "20",
+		"pregunta": "DONDE PUEDES RECIBIR LAS PIEDRAS DE ALMA DE JET ",
+		"respuesta": "TIENDA DE LAS ALMAS"
+	},
+	{
+		"id": "21",
+		"pregunta": "DONDE NO SE PUEDE OBTENER EL NUCLEO DE CAOS ",
+		"respuesta": "MERCADER DE ARTEFACTOS"
+	},
+	{
+		"id": "22",
+		"pregunta": "CON QUE FRECUENCIA PUEDES CAMBIAR DE UN GREMIO A OTRO ",
+		"respuesta": "CADA 8 HORAS"
+	},
+	{
+		"id": "23",
+		"pregunta": "CUAL DE ESTOS HEROES NO TIENE UN GLIFO DE PROBABILIDAD DE CRITICO",
+		"respuesta": " ISAAC"
+	},
+	{
+		"id": "24",
+		"pregunta": "QUE MALA COSTUMBRE TIENE RUFUS ",
+		"respuesta": "BEBER"
+	},
+	{
+		"id": "25",
+		"pregunta": "QUE NO SE PUEDE CONSEGUIR EN COFRES EN LAS AVENTURAS ",
+		"respuesta": "PIEDRAS DE ALMA DE MASCOTA"
+	},
+	{
+		"id": "26",
+		"pregunta": "DONDE ESTA SEYMOUR",
+		"respuesta": " CIUDAD GHIRWIL"
+	},
+	{
+		"id": "27",
+		"pregunta": "CUAL DE ESTOS HEROES PUEDE SITUAR A UN ALIADO BAJO EN SALUD EN EL CENTRO DEL EQUIPO ",
+		"respuesta": "CORVUS"
+	},
+	{
+		"id": "28",
+		"pregunta": "QUE HEROE COMPARTE SU CUERPO CON EL ALMA DE UN ZORRO NEGRO ",
+		"respuesta": "SATORI"
+	},
+	{
+		"id": "29",
+		"pregunta": "QUE JEFE NO APARECE EN LAS AVENTURAS ",
+		"respuesta": "DAREDEVIL"
+	},
+	{ "id": "30", "pregunta": "QUE TITAN TIENE ESCUDO ", "respuesta": "SIGURD" },
+	{
+		"id": "31",
+		"pregunta": "QUE COFRE NO EXISTE EN EL JUEGO  ",
+		"respuesta": "COFRE RUNICO"
+	},
+	{
+		"id": "32",
+		"pregunta": "COMO SE LLAMAN LAS UBICACIONES DE LAS AVENTURAS EN LAS QUE PUEDES ELEGIR UN POTENCIADOR\r\nPARA TU EQUIPO ",
+		"respuesta": "ALTAR DE PODER"
+	},
+	{
+		"id": "33",
+		"pregunta": "QUE OBJETOS NO PUEDEN EQUIPARSE EN UN HEROE",
+		"respuesta": " RUNAS"
+	},
+	{
+		"id": "34",
+		"pregunta": "QUE RANGO DE HEROE NO APARECE EN EL JUEGO ",
+		"respuesta": "ROJO +4"
+	},
+	{
+		"id": "35",
+		"pregunta": "QUE HEROE RECIBE UN AUMENTO DE EVASION SI NO SUFRE DAÑOS DURANTE UNOS SEGUNDOS ",
+		"respuesta": "HEIDI"
+	},
+	{
+		"id": "36",
+		"pregunta": "CUAL DE ESTOS HEROES TIENE UNA FUNCION DE CONTROL ",
+		"respuesta": "LILITH"
+	},
+	{
+		"id": "37",
+		"pregunta": "CUAL DE ESTAS MASCOTAS TIENE LA HABILIDAD GUARDIA OSCURO ",
+		"respuesta": "MARA"
+	},
+	{
+		"id": "38",
+		"pregunta": "EN QUE MISION TE ENFRENTAS AL ARCHIDEMONIO POR PRIMERA VEZ ",
+		"respuesta": "PATRIMONIO DEL ARCHIDEMONIO, EL LEGADO DEL ARCHIDEMONIO"
+	},
+	{
+		"id": "39",
+		"pregunta": "DONDE ESPERA EL ARCHIDEMONIO A LOS GUARDIANES ",
+		"respuesta": "HORNO TERRORIFICO"
+	},
+	{
+		"id": "40",
+		"pregunta": "CUAL DE ESTAS FORMAS NO PUEDE ADOPTAR LUCAS, LA MASCOTA DE ASTRID",
+		"respuesta": " ARDILLA"
+	},
+	{
+		"id": "41",
+		"pregunta": "QUE RECURSOS NO PUEDES OBTENER EN OUTLAND ",
+		"respuesta": "PIEDRAS DE ALMA DE HEROE"
+	},
+	{
+		"id": "42",
+		"pregunta": "QUE ASPECTO TIENE MATAGIGANTES ",
+		"respuesta": "ES UN ARCO (FONDO MORADO)"
+	},
+	{
+		"id": "43",
+		"pregunta": "COMO ES MONEDA GELIDA",
+		"respuesta": " ES UN COPO DE NIEVE"
+	},
+	{
+		"id": "44",
+		"pregunta": "COMO DESBLOQUEAR LA TIENDA DE ALMAS ",
+		"respuesta": "ASCENDIENDO A CUALQUIER HEROE A ESTRELLA TOTAL"
+	},
+	{
+		"id": "45",
+		"pregunta": "QUE GLIFO NO TIENE KEIRA ",
+		"respuesta": "PROBABILIDAD DE CRITICO"
+	},
+	{
+		"id": "46",
+		"pregunta": "CUAL ES LA META PRINCIPAL DE ASTAROTH ",
+		"respuesta": "REDUCIR EL MUNDO A CENIZAS"
+	},
+	{
+		"id": "47",
+		"pregunta": "A QUIEN PUEDES INVITAR A UN GRUPO DE AVENTURA CERRADO ",
+		"respuesta": "COMPAÑEROS DE GREMIO"
+	},
+	{
+		"id": "48",
+		"pregunta": "QUIEN GANARIA EN LA GRAN ARENA SI NO SE DECLARA NINGUN GANADOR ANTES DE QUE TERMINE EL TIEMPO ",
+		"respuesta": "EL DEFENSOR"
+	},
+	{
+		"id": "49",
+		"pregunta": "QUE CARACTERISTICA DE HEIDI NO SE PUEDE ASCENDER MEDIANTE RUNAS ",
+		"respuesta": "SALUD "
+	},
+	{
+		"id": "50",
+		"pregunta": "QUE TIERRAS JURO PROTEGER CORVUS ",
+		"respuesta": "REINO DE GRAVEN"
+	},
+	{
+		"id": "51",
+		"pregunta": "CUANTA ENERGIA RECIBES AL USAR ENERGIA EMBOTELLADA ",
+		"respuesta": "200"
+	},
+	{
+		"id": "52",
+		"pregunta": "COMO SE ABANDONA UNA AVENTURA ANTES DE DERROTAR AL JEFE",
+		"respuesta": " EN EL REGISTRO"
+	},
+	{
+		"id": "53",
+		"pregunta": "QUE HEROE NO TIENE HABILIDADES RELACIONADAS CON EL VAMPIRISMO ",
+		"respuesta": "JORGEN"
+	},
+	{
+		"id": "54 ",
+		"pregunta": "QUE HACE LA CUARTA HABILIDAD DE DAREDEVIL, SED DE SANGRE ",
+		"respuesta": "IGNORA UNA PORCION DE LA  ARMADURA DE LOS ENEMIGOS A LOS QUE HA PRENDIDO FUEGO"
+	},
+	{
+		"id": "55 ",
+		"pregunta": "DE CUANTAS FASES CONSTA EL TORNEO DE LOS ELEMENTOS ENTRE SERVIDORES ",
+		"respuesta": "7  "
+	},
+	{
+		"id": "56 ",
+		"pregunta": "CUANTOS NIVELES HAY ENTRE CADA PUNTO DE GUARDADO DE LA MAZMORRA ",
+		"respuesta": "10  "
+	},
+	{
+		"id": "57 ",
+		"pregunta": "QUE MONEDA SE NECESITA PARA SUBIR DE NIVEL LOS ARTEFACTOS DE TITAN: MARCAS ",
+		"respuesta": "ORO, ESMERALDAS  "
+	},
+	{
+		"id": "58 ",
+		"pregunta": "A QUE JEFE PUEDES ENCONTRAR EN LA VORAGINE DEL CAOS ",
+		"respuesta": "SIEMPRE DIFERENTE  "
+	},
+	{
+		"id": "59 ",
+		"pregunta": "CUAL ES EL VALOR DE LA RECOMPENSA HORARIA DEL JUGADOR DEL PUESTO 30 EN LA GRAN ARENA ",
+		"respuesta": "45  "
+	},
+	{
+		"id": "60 ",
+		"pregunta": "QUE HEROE NO TIENE ENERGIA ",
+		"respuesta": "ASTRID Y LUCAS  "
+	},
+	{
+		"id": "61 ",
+		"pregunta": "CUANTAS ALMAS DE HEROE HACEN FALTA PARA EVOLUCIONAR UN HEROE DESDE LA 5TA ESTRELLA A LA   ",
+		"respuesta": "300"
+	},
+	{
+		"id": "62 ",
+		"pregunta": "EN QUE EVENTO HAY UNA SORPRESA CON LA NINFA TRISTE ",
+		"respuesta": "FESTIVAL DE VERANO  "
+	},
+	{
+		"id": "63 ",
+		"pregunta": "QUE HEROES SUELEN RONDAR LA PLAZA PRINCIPAL ",
+		"respuesta": "EL EQUIPO DE DEFENSA DE LA ARENA  "
+	},
+	{
+		"id": "64 ",
+		"pregunta": "CUAL ES EL NOMBRE DE LA MASCOTA DE ASTRID ",
+		"respuesta": "LUCAS  "
+	},
+	{
+		"id": "65 ",
+		"pregunta": "QUE MASCOTA PREVIENE QUE CUALQUIER ENEMIGO RECIBA CURACION DE UN ALIADO ",
+		"respuesta": "BISCUIT  "
+	},
+	{
+		"id": "66 ",
+		"pregunta": "QUE HABILIDAD NO TIENEN LOS HEROES ",
+		"respuesta": "PRECISION / TRUE DARKNESS  "
+	},
+	{
+		"id": "67 ",
+		"pregunta": "CUANTAS VECES AL DIA PUEDO RECLAMAR ENERGIA GRATIS POR COMPLETAR EL ENCARGO DIARIO ",
+		"respuesta": "3  "
+	},
+	{
+		"id": "68 ",
+		"pregunta": "CUAL HEROE ES UN ALIENIGENA ",
+		"respuesta": "ORION  "
+	},
+	{
+		"id": "69 ",
+		"pregunta": "QUIEN PUEDE ACERCAR A SUS ENEMIGOS CON UNA CADENA ",
+		"respuesta": "TAJADOR  "
+	},
+	{
+		"id": "70 ",
+		"pregunta": "COMO NO SE PUEDE OBTENER UN TROFEO DE BRONCE ",
+		"respuesta": "BOTIN DE EXPEDICION  "
+	},
+	{
+		"id": "71 ",
+		"pregunta": "DONDE COMIENZAN LOS HEROES SU RECORRIDO ",
+		"respuesta": "REGLAS DE FUEGO  "
+	},
+	{
+		"id": "72 ",
+		"pregunta": "CUAL TITAN NO SE PUEDE ENCONTRAR EN DOMINION ",
+		"respuesta": "METAL  "
+	},
+	{
+		"id": "73 ",
+		"pregunta": "QUE HEROE TIENE UN GATO MASCOTA ",
+		"respuesta": "ASTRID  "
+	},
+	{
+		"id": "74 ",
+		"pregunta": "QUE LABERINTO APARECE EN EL MAPA DE LA CAMPAÑA ",
+		"respuesta": "LABERINTO DE LA ESPERANZA PERDIDA  "
+	},
+	{
+		"id": "75 ",
+		"pregunta": "CUAL ES EL BENEFICIO DE REALIZAR MULTIPLES INCURSIONES EN LA CAMPAÑA ",
+		"respuesta": "OBTIENES UN MINIMO DE 1 FRAGMENTO DE OBJETO CADA 10 MISIONES   "
+	},
+	{
+		"id": "76 ",
+		"pregunta": "COMO SE LLAMA LA ESTATUA DEL CAPITULO 2 DE LA CAMPAÑA ",
+		"respuesta": "MONOLITO DE MERON  "
+	},
+	{
+		"id": "77 ",
+		"pregunta": "COMO SE LLAMA EL JEFE ORCO DEL CAPITULO 3 DE LA CAMPAÑA ",
+		"respuesta": "GRO BULGOR  "
+	},
+	{
+		"id": "78 ",
+		"pregunta": "QUIEN VIVE EN EL CAPITULO 10 DE LA CAMPAÑA ",
+		"respuesta": "TIFON  "
+	},
+	{
+		"id": "79 ",
+		"pregunta": "EN QUE CAPITULO DE LA CAMPAÑA SALE DEL SUELO UNA MANO SOSTENIENDO UN HACHA ",
+		"respuesta": "7  "
+	},
+	{
+		"id": "80 ",
+		"pregunta": "QUE HABILIDAD PASIVA TE PERMITE EMPEZAR LA BATALLA CON ENERGIA ACUMULADA ",
+		"respuesta": "IDOLO DE MASAS  "
+	},
+	{
+		"id": "81 ",
+		"pregunta": "CUANTAS MASCARAS DISTINTAS INVOCA PEPPY CON SU HABILIDAD DE MASCARADA ",
+		"respuesta": "4  "
+	},
+	{
+		"id": "82 ",
+		"pregunta": "COMO SE LLAMA LA MADRE DE QING MAO ",
+		"respuesta": "QING LONG  "
+	},
+	{
+		"id": "83 ",
+		"pregunta": "COMO SE LLAMA EL HERMANO DE QING MAO ",
+		"respuesta": "QING LUN  "
+	},
+	{
+		"id": "84 ",
+		"pregunta": "QUE QUERIA EL PADRE DE ISHMAEL HACER CON EL DURANTE SU NIÑEZ ",
+		"respuesta": "SACRIFICARLO A LOS DIOSES  "
+	},
+	{
+		"id": "85 ",
+		"pregunta": "QUIEN ERA KEIRA ANTES DE CONVERTIRSE EN ESPIRITU VENGATIVO ",
+		"respuesta": "UNA GUARDIA REAL  "
+	},
+	{
+		"id": "86 ",
+		"pregunta": "QUE ARTEFACTO USA LILITH ",
+		"respuesta": "CONTRATO INFERNAL  "
+	},
+	{
+		"id": "87 ",
+		"pregunta": "CUAL DE ESTOS HEROES NO PUEDE CEGAR A SUS OPONENTES ",
+		"respuesta": "DAREDEVIL  "
+	},
+	{
+		"id": "88 ",
+		"pregunta": "DONDE PUEDES ACTIVAR LA MUSICA Y EL SONIDO ",
+		"respuesta": "AJUSTES  "
+	},
+	{
+		"id": "89 ",
+		"pregunta": "CUANTA EXPERIENCIA RECIBES AL USAR UNA POCION DE EXP ABUNDANTE ",
+		"respuesta": "7500  "
+	},
+	{
+		"id": "90 ",
+		"pregunta": "CUAL ES EL RANGO MAXIMO DE LAS MASCOTAS ",
+		"respuesta": "VIOLETA +3  "
+	},
+	{
+		"id": "91 ",
+		"pregunta": "QUE HEROE PUEDE ENVENENAR A LOS ENEMIGOS CON SUS CRITICOS ",
+		"respuesta": "YASMINE  "
+	},
+	{
+		"id": "92 ",
+		"pregunta": "CUANTAS FORTIFICACIONES DE GUERRA DE GREMIOS HAY QUE CONQUISTAR PARA GANAR EL MAXIMO DE PUNTOS ",
+		"respuesta": "10"
+	},
+	{
+		"id": "93 ",
+		"pregunta": "EN QUE MODO NO HAY COMPETICIONES ENTRE SERVIDORES ",
+		"respuesta": "GUERRA DE GREMIOS  "
+	},
+	{
+		"id": "94 ",
+		"pregunta": "QUE OBJETIVO DA MAS PUNTOS AL CAPTURARLO EN LA GUERRA DE GREMIOS ",
+		"respuesta": "CIUDADELA  "
+	},
+	{
+		"id": "95 ",
+		"pregunta": "CUAL DE LAS SIGUIENTES FORTIFICACIONES DE GUERRA DE GREMIOS SE CONQUISTA CON TITANES ",
+		"respuesta": "PUENTE, MANANTIAL ELEMENTAL, PUERTAS DE LA NATURALEZA, BASTION DE AGUA Y FUEGO  "
+	},
+	{
+		"id": "96 ",
+		"pregunta": "DE QUE MANERA NO PUEDES CONSEGUIR UN TROFEO DE BRONCE DE GUERRA DE GREMIOS ",
+		"respuesta": "COMO BOTIN DE EXPEDICION  "
+	},
+	{
+		"id": "97 ",
+		"pregunta": "QUE TROFEOS DE GUERRA DE GREMIOS PUEDES INTERCAMBIAR POR UNA POCION DE TITAN ",
+		"respuesta": "TROFEOS DE BRONCE DE GUERRA DE  GREMIOS"
+	},
+	{
+		"id": "98 ",
+		"pregunta": "QUE TIPO DE DAÑO NO EXISTE EN EL JUEGO ",
+		"respuesta": "DAÑO METAFISICO  "
+	},
+	{
+		"id": "99 ",
+		"pregunta": "QUE MEJORA EN LAS ESTADISTICAS GANAN LOS TITANES DE TIERRA CON EL TOTEM DE ESPIRITU DE TIERRA ",
+		"respuesta": "SALUD  "
+	},
+	{
+		"id": "100 ",
+		"pregunta": "QUE MEJORA EN LAS ESTADISTICAS GANAN LOS TITANES DE FUEGO CON EL TOTEM DE ESPIRITU DE AGUA ",
+		"respuesta": "NINGUNA  "
+	},
+	{
+		"id": "101 ",
+		"pregunta": "QUE MEJORA EN LAS ESTADISTICAS GANAN LOS TITANES DE FUEGO CON EL TOTEM DE ESPIRITU DE FUEGO ",
+		"respuesta": "ATAQUE  "
+	},
+	{
+		"id": "102 ",
+		"pregunta": "QUE MEJORA EN LAS ESTADISTICAS GANAN LOS TITANES DE LUZ CON EL TOTEM DE ESPIRITU DE LUZ ",
+		"respuesta": "ATAQUE  "
+	},
+	{
+		"id": "103 ",
+		"pregunta": "QUE MEJORA EN LAS ESTADISTICAS GANAN LOS TITANES DE OSCURIDAD CON EL TOTEM DE ESPIRITU DE OSCURIDAD ",
+		"respuesta": "SALUD  "
+	},
+	{
+		"id": "104 ",
+		"pregunta": "QUE ESTADISTICAS SE VEN AUMENTADAS POR ESTOS ARTEFACTOS DE TITAN: MARCA DE ATAQUE, MARCA DE DEFENSA Y MARCA DE BALANCE ",
+		"respuesta": "SALUD, ATAQUE  "
+	},
+	{
+		"id": "105 ",
+		"pregunta": "QUE TIENDA VENDE PIEDRAS DE ASPECTO DE TITAN ",
+		"respuesta": "TIENDA DE GUERRA DE GREMIOS  "
+	},
+	{
+		"id": "106 ",
+		"pregunta": "DONDE PUEDO AVERIGUAR LO QUE HA CAMBIADO EN DOMINION ",
+		"respuesta": "PAGINA DE COMUNIDAD DE HERO WARS "
+	},
+	{
+		"id": "107 ",
+		"pregunta": "A LOS TITANES DE QUE ELEMENTO CAUSA DAÑO ADICIONAL EL ARTEFACTO DEL ALMA DE ANDVARI ",
+		"respuesta": "TITANES DE AGUA  "
+	},
+	{
+		"id": "108 ",
+		"pregunta": "A LOS TITANES DE QUE ELEMENTO CAUSA DAÑO ADICIONAL EL ARTEFACTO DE BACULO (VARA) DE SIUNGUR ",
+		"respuesta": "TITANES DE FUEGO  "
+	},
+	{
+		"id": "109 ",
+		"pregunta": "A LOS TITANES DE QUE ELEMENTO CAUSA DAÑO ADICIONAL EL ARTEFACTO DE BESTIA DE RAGNI ",
+		"respuesta": "TITANES DE TIERRA  "
+	},
+	{
+		"id": "110 ",
+		"pregunta": "QUE HEROE TIENE LA HABILIDAD QUE REDUCE LA RESISTENCIA MAGICA ",
+		"respuesta": "ALVANOR  "
+	},
+	{
+		"id": "111 ",
+		"pregunta": "CUAL DE ESTOS HEROES TIENE OJOS MORADOS ",
+		"respuesta": "YASMINE  "
+	},
+	{
+		"id": "112 ",
+		"pregunta": "CUANTAS MONEDAS DE ARTEFACTO PUEDES RECIBIR AL VENDER UN FRAGMENTO DE ARTEFACTO ",
+		"respuesta": "50  "
+	},
+	{
+		"id": "113 ",
+		"pregunta": "QUIEN DE ESTOS HEROES PUEDE REDUCIR TEMPORALMENTE LA ESTADISTICA PRINCIPAL DEL ENEMIGO ",
+		"respuesta": "DANTE  "
+	},
+	{
+		"id": "114 ",
+		"pregunta": "QUE HEROES SE PUEDEN CONSEGUIR EN LA TIENDA DEL TORNEO ELEMENTAL ",
+		"respuesta": "NEBULOSA Y K'ARKH  "
+	},
+	{
+		"id": "115 ",
+		"pregunta": "QUE ACCIONES DAN PUNTOS DE ACTIVIDAD DE GREMIO ",
+		"respuesta": "MEJORAR UN GLIFO  "
+	},
+	{
+		"id": "116 ",
+		"pregunta": "QUE TIENEN EN COMUN ESTRELLA OSCURA Y MARA, LA MASCOTA ",
+		"respuesta": "CONTROL MENTAL  "
+	},
+	{
+		"id": "117 ",
+		"pregunta": "A QUE TRIBU PERTENECE JHU ",
+		"respuesta": "ZARAKKAR  "
+	},
+	{
+		"id": "118 ",
+		"pregunta": "QUE NO SE PUEDE OBTENER EN UNA EXPEDICION ",
+		"respuesta": "MONEDA DE ARTEFACTO  "
+	},
+	{
+		"id": "119 ",
+		"pregunta": "DONDE NO SE PUEDEN OBTENER MONEDAS DE ARTEFACTO ",
+		"respuesta": "EXPEDICIONES  "
+	},
+	{
+		"id": "120 ",
+		"pregunta": "AL COMIENZO DE QUE NIVEL SE PUEDE ACCEDER A LA SUPERACION AUTOMATICA DE LA TORRE ",
+		"respuesta": "130  "
+	},
+	{
+		"id": "121 ",
+		"pregunta": "QUE DROMMER ES EL MAESTRO DE LOS ARTEFACTOS DEL FUEGO ",
+		"respuesta": "RAGNI  "
+	},
+	{
+		"id": "122 ",
+		"pregunta": "QUE DROMMER ES EL MAESTRO DE LOS ARTEFACTOS DEL AGUA ",
+		"respuesta": "SIUNGUR  "
+	},
+	{
+		"id": "123 ",
+		"pregunta": "QUE MAESTRO DE LOS ELEMENTOS DROMMER NO APARECE EN EL JUEGO ",
+		"respuesta": "SIUNGUR  "
+	},
+	{
+		"id": "124 ",
+		"pregunta": "QUE HEROE TIENE UNA HABILIDAD PASIVA QUE NO FUNCIONA TRAS SU MUERTE ",
+		"respuesta": "ANDVARI  "
+	},
+	{
+		"id": "125 ",
+		"pregunta": "CUAL ES EL NUMERO MAXIMO DE VENTANAS DE UN PISO DE LA TORRE ",
+		"respuesta": "3  "
+	},
+	{
+		"id": "126 ",
+		"pregunta": "DONDE NO PUEDES RECIBIR POCIONES DE TITAN ",
+		"respuesta": "CIRCULO DE INVOCACION  "
+	},
+	{
+		"id": "127 ",
+		"pregunta": "CUANTO TIEMPO TIENES PARA COMPLETAR UNA AVENTURA ",
+		"respuesta": "7 DIAS  "
+	},
+	{
+		"id": "128 ",
+		"pregunta": "QUE HEROE PUEDE LUCHAR CON UN GLOBO ENTRE SUS MANOS ",
+		"respuesta": "JORGEN  "
+	},
+	{
+		"id": "129 ",
+		"pregunta": "DONDE PUEDES ENCONTRAR AL ORACULO ",
+		"respuesta": "DUNGEON / MAZMORRAS  "
+	},
+	{
+		"id": "130 ",
+		"pregunta": "CUAL DE ESTOS HEROES NO LLEGO A DOMINION DURANTE UN EVENTO DE AÑO NUEVO ",
+		"respuesta": "ANDVARI  "
+	},
+	{
+		"id": "131 ",
+		"pregunta": "QUE HEROE NO TIENE UNA MASCARA ",
+		"respuesta": "MARTHA  "
+	},
+	{
+		"id": "132 ",
+		"pregunta": "QUE SE NECESITA PARA SUBIR DE NIVEL UN TOTEM DE ESPIRITU ELEMENTAL ",
+		"respuesta": "TROFEOS DE LA GUERRA DE GREMIOS, ESMERALDAS  "
+	},
+	{
+		"id": "133 ",
+		"pregunta": "LOS TITANES DE QUE ELEMENTO CAUSAN MENOS DAÑO CONTRA LA CORONA DE AGUA EN LA DEFENSA DE LA BATALLA",
+		"respuesta": "CUALQUIERA "
+	},
+	{
+		"id": "134 ",
+		"pregunta": "LOS TITANES DE QUE ELEMENTO CAUSAN MENOS DAÑO CONTRA LA CORONA DE TIERRA DURANTE EL ATAQUE EN LA BATALLA ",
+		"respuesta": "AGUA  "
+	},
+	{
+		"id": "135 ",
+		"pregunta": "AL ATACAR, LOS TITANES DE QUE ELEMENTO CAUSAN MENOS DAÑO CONTRA LA CORONA DE TIERRA ",
+		"respuesta": "AGUA  "
+	},
+	{
+		"id": "136 ",
+		"pregunta": "CUAL DE ESTOS HEROES NO PUEDE DRENAR ENERGIA DE SUS ENEMIGOS ",
+		"respuesta": "K’ARKH  "
+	},
+	{
+		"id": "137 ",
+		"pregunta": "QUE NO SE PUEDE ENCONTRAR EN EL PISO 50 DE LA TORRE ",
+		"respuesta": "EL JEFE DE LA TORRE  "
+	},
+	{
+		"id": "138 ",
+		"pregunta": "QUE HAY QUE HACER PARA CONSEGUIR UN FRAGMENTO DE HISTORIA DE CIUDAD GHIRWIL ",
+		"respuesta": "COMPLETAR UNA MISION CON 3 ESTRELLAS  "
+	},
+	{
+		"id": "139 ",
+		"pregunta": "QUE HABILIDAD NO EXISTE EN EL JUEGO ",
+		"respuesta": "OSCURIDAD VERDADERA  "
+	},
+	{
+		"id": "140 ",
+		"pregunta": "CUAL DE ESTOS MULTIPLICADORES DE INTERCAMBIO DE ESMERALDAS NO EXISTE ",
+		"respuesta": "25  "
+	},
+	{
+		"id": "141 ",
+		"pregunta": "COMO SE LLAMA LA TORTUGA DE MARTHA ",
+		"respuesta": "JOSEPHINE  "
+	},
+	{
+		"id": "142 ",
+		"pregunta": "CUAL NO PUEDE ABANDONAR EL GREMIO SIN ASIGNAR SU ROL A OTRO JUGADOR ",
+		"respuesta": "LIDER DE GREMIO  "
+	},
+	{
+		"id": "143 ",
+		"pregunta": "CUAL DE ESTOS HEROES PUEDE ENCANTAR A SUS ENEMIGOS ",
+		"respuesta": "LIAN  "
+	},
+	{
+		"id": "144 ",
+		"pregunta": "QUE HEROE NO PUEDE PROTEGER A SUS ALIADOS CON UN ESCUDO ",
+		"respuesta": "SEBASTIAN  "
+	},
+	{
+		"id": "145 ",
+		"pregunta": "QUE TITULO POSEE THEA ",
+		"respuesta": "SANADORA DE OLD GROVE  "
+	},
+	{
+		"id": "146 ",
+		"pregunta": "QUE HEROE TIENE MAS DE 2 MANOS ",
+		"respuesta": "K’ARKH  "
+	},
+	{
+		"id": "147 ",
+		"pregunta": "A QUE DIOSA RINDE CULTO ZIRI ",
+		"respuesta": "AKHREB UMMI  "
+	},
+	{
+		"id": "148 ",
+		"pregunta": "CUAL DE ESTOS NOMBRES NO PERTENECE A UNA AVENTURA ",
+		"respuesta": "LA CAIDA DE SHAVARAKK  "
+	},
+	{
+		"id": "149 ",
+		"pregunta": "QUE ROL DE HEROE NO APARECE EN EL JUEGO ",
+		"respuesta": "ASESINO  "
+	},
+	{
+		"id": "150 ",
+		"pregunta": "QUE HEROE HA FORMADO UNA UNIDAD PARA COMBATIR A LOS DEMONIOS ",
+		"respuesta": "TRISTAN  "
+	},
+	{
+		"id": "151 ",
+		"pregunta": "QUE HEROE DESCIENDE DE UN HUMANO Y UN TITAN ",
+		"respuesta": "MAYA  "
+	},
+	{
+		"id": "152 ",
+		"pregunta": "QUE HEROE USA LIBROS COMO ARMAS ",
+		"respuesta": "IRIS  "
+	},
+	{
+		"id": "153 ",
+		"pregunta": "QUE GOBIERNA EL FUEGO ",
+		"respuesta": "EL CAPITULO 1  "
+	},
+	{
+		"id": "154 ",
+		"pregunta": "QUE HEROE ES PROTECTOR DE LA ARBOLEDA ",
+		"respuesta": "ALVANOR, KAI, THEA  "
+	},
+	{
+		"id": "155 ",
+		"pregunta": "QUE ELEMENTO DE TITAN NO PUEDES ENCONTRAR EN DOMINION ",
+		"respuesta": "METAL  "
+	},
+	{
+		"id": "156 ",
+		"pregunta": "CUANTAS RAMAS TIENE EL GRAN ARBOL DE LA SABIDURIA ",
+		"respuesta": "7  "
+	},
+	{
+		"id": "157 ",
+		"pregunta": "PARA QUE SE COMPRAN LAS PIEDRAS DE ASPECTO DE TITAN ",
+		"respuesta": "TROFEO DE BRONCE DE GUERRA DE GREMIOS"
+	},
+	{
+		"id": "158 ",
+		"pregunta": "QUE HEROES COMBINAN MEJOR CON MARA LA MASCOTA ",
+		"respuesta": "HEROES CON EFECTOS DE ALTERACION  "
+	},
+	{
+		"id": "159 ",
+		"pregunta": "CUAL ES EL RANGO MAXIMO DE ASCENSION ",
+		"respuesta": "5  "
+	},
+	{
+		"id": "160 ",
+		"pregunta": "COMO PUEDO CONSEGUIR EL COFRE DE PIEDRAS DE ALMA DE HEROE MENOR ",
+		"respuesta": "INICIANDO SESION 28 DIAS  "
+	},
+	{
+		"id": "161 ",
+		"pregunta": "QUE POSICION NO PUEDE OCUPAR UN HEROE ",
+		"respuesta": "LA LINEA IZQUIERDA  "
+	},
+	{
+		"id": "162 ",
+		"pregunta": "QUE NIVEL DE EQUIPO NECESITAS PARA ENTRAR EN LA GRAN ARENA ",
+		"respuesta": "50  "
+	},
+	{
+		"id": "163 ",
+		"pregunta": "CUAL ES EL LIMITE DE INTERCAMBIO DE PUNTOS DE ACTIVIDAD DEL GREMIO DE CADA DIA ",
+		"respuesta": "2000  "
+	},
+	{
+		"id": "164 ",
+		"pregunta": "QUE HEROE NO PUEDE USAR A KHORUS COMO PATRON ",
+		"respuesta": "DORIAN  "
+	},
+	{
+		"id": "165 ",
+		"pregunta": "QUE HABILIDAD DE ASCENSION DE HEROE CONVIERTE EL EXCESO DE CURACIONEN UN ESCUDO ",
+		"respuesta": "THEA  "
+	},
+	{
+		"id": "166 ",
+		"pregunta": "A QUE TITAN SE LE CONOCE COMO PADRE DE LOS OCEANOS ",
+		"respuesta": "HYPERION  "
+	},
+	{
+		"id": "167 ",
+		"pregunta": "QUE GENTE VIVIA ANTES EN CIUDAD GHIRWIL ",
+		"respuesta": "LOS DROMMER  "
+	},
+	{
+		"id": "168 ",
+		"pregunta": "QUE POTENCIADOR TEMPORAL DE INCURSION DEL GREMIO POTENCIA EL DAÑO QUE INFLIGE EL EQUIPO A LAS PESADILLAS  ",
+		"respuesta": "REPRESALIA DE ENSUEÑO "
+	},
+	{
+		"id": "169 ",
+		"pregunta": "DONDE CONSIGUES MONEDAS DE CALAVERA ",
+		"respuesta": "TORRE  "
+	},
+	{
+		"id": "170 ",
+		"pregunta": "CUAL ES EL NIVEL MAXIMO DEL FAVOR DE LA VALKIRIA ",
+		"respuesta": "16  "
+	},
+	{
+		"id": "171 ",
+		"pregunta": "CUANTAS PIEDRAS DE ASPECTO CONTIENE EL COFRE DE PIEDRA DE ASPECTO GRANDE ",
+		"respuesta": "150  "
+	},
+	{
+		"id": "172 ",
+		"pregunta": "CUAL DE ESTOS HEROES REJUVENECE EN UNO DE SUS ASPECTOS ",
+		"respuesta": "MARTHA  "
+	},
+	{
+		"id": "173 ",
+		"pregunta": "QUE ESTADISTICAS NO SE PUEDE POTENCIAR CON GLIFOS ",
+		"respuesta": "SABIDURIA, AGUANTE  "
+	},
+	{
+		"id": "174 ",
+		"pregunta": "QUIEN DE ESTOS LLEVA CORONA ",
+		"respuesta": "MORRIGAN  "
+	},
+	{
+		"id": "175 ",
+		"pregunta": "CUANTOS TOTEMS PUEDE USAR UN EQUIPO DE TITANES A LA VEZ ",
+		"respuesta": "2  "
+	},
+	{
+		"id": "176 ",
+		"pregunta": "QUE ESTADISTICA DE LOS ALIADOS AUMENTA LA SEGUNDA HABILIDAD DE DANTE ",
+		"respuesta": "EVASION  "
+	},
+	{
+		"id": "177 ",
+		"pregunta": "QUE ELEMENTO ORDENA ANDVARI ",
+		"respuesta": "LA TIERRA  "
+	},
+	{
+		"id": "178 ",
+		"pregunta": "CUAL DE ESTOS HEROES NO TIENE UN ASPECTO QUE AUMENTA LA PROBABILIDAD DE CRITICO ",
+		"respuesta": "SEBASTIAN  "
+	},
+	{
+		"id": "179 ",
+		"pregunta": "CUANTOS HEROES HAY EN TOTAL EN EL JUEGO ",
+		"respuesta": "63  "
+	},
+	{
+		"id": "180 ",
+		"pregunta": "QUE HEROE LLEVA SOMBRERO EN SU ASPECTO POR DEFECTO ",
+		"respuesta": "SEBASTIAN  "
+	},
+	{
+		"id": "181 ",
+		"pregunta": "CUANTOS ESQUELETOS PUEDE CONTROLAR MORRIGAN A LA VEZ ",
+		"respuesta": "6  "
+	},
+	{
+		"id": "182 ",
+		"pregunta": "A QUE ORDEN DE CABALLERIA PERTENECE LUTHER ",
+		"respuesta": "LA ORDEN DE SAN BRAN  "
+	},
+	{
+		"id": "183 ",
+		"pregunta": "CUAL DE ESTOS TITANES ES DE LUZ ",
+		"respuesta": "AMON, IYARI, RIGEL, SOLARIS  "
+	},
+	{
+		"id": "184 ",
+		"pregunta": "CUAL DE ESTOS TITANES ES DE OSCURIDAD ",
+		"respuesta": "BRUSTAR, KEROS, MORT, TENEBRIS  "
+	},
+	{
+		"id": "185 ",
+		"pregunta": "CUAL DE ESTOS TITANES ES DE TIERRA ",
+		"respuesta": "ANGUS, AVALON, EDEN, SYLVA  "
+	},
+	{
+		"id": "186 ",
+		"pregunta": "CUAL DE ESTOS TITANES ES DE AGUA ",
+		"respuesta": "SIGURD, NOVA, MAIRI, HYPERION  "
+	},
+	{
+		"id": "187 ",
+		"pregunta": "CUAL DE ESTOS TITANES ES DE FUEGO ",
+		"respuesta": "MOLOCH, IGNIS, VULCAN, ARAJI  "
+	},
+	{
+		"id": "188 ",
+		"pregunta": "PARA QUE AVENTURA SE NECESITA UN NIVEL DE EQUIPO DE 130 ",
+		"respuesta": "VORAGINE DEL CAOS  "
+	},
+	{
+		"id": "189 ",
+		"pregunta": "QUE HEROE YA EVOLUCIONADO A ESTRELLA TOTAL PUEDES ENCONTRAR EN UN COFRE HOROICO ",
+		"respuesta": "TAJADOR  "
+	},
+	{
+		"id": "190 ",
+		"pregunta": "A QUIEN ESTAN DEDICADOS LOS ARTEFACTOS DE TITAN DE LUZ ",
+		"respuesta": "BELAV  "
+	},
+	{
+		"id": "191 ",
+		"pregunta": "DE QUIEN NO PUEDE SER PATRON MERLIN, LA MASCOTA ",
+		"respuesta": "RUFUS  "
+	},
+	{
+		"id": "192 ",
+		"pregunta": "DE QUIEN NO PUEDE SER PATRON BISCUIT, LA MASCOTA ",
+		"respuesta": "MARTHA  "
+	},
+	{
+		"id": "193 ",
+		"pregunta": "CUANTOS PUNTOS DE ACTIVIDAD DEL GREMIO SE PUEDEN OBTENER POR MEJORAR EL GLIFO DE UN HEROE CADA DIA ",
+		"respuesta": "700  "
+	},
+	{
+		"id": "194 ",
+		"pregunta": "DONDE PUEDES ENCONTRAR AL ORACULO ",
+		"respuesta": "MAZMORRA  "
+	},
+	{
+		"id": "195 ",
+		"pregunta": "QUE HEROE NO LLEVA CAPUCHA EN SU ASPECTO POR DEFECTO ",
+		"respuesta": "DORIAN  "
+	},
+	{
+		"id": "196 ",
+		"pregunta": "CUAL DE LOS SIGUIENTES HEROES PUEDE BLOQUEAR LA CURACION ENEMIGA PARCIALMENTE ",
+		"respuesta": "YASMINE  "
+	},
+	{
+		"id": "197 ",
+		"pregunta": "QUE TITAN NO ES UN TIRADOR ",
+		"respuesta": "HYPERION  "
+	},
+	{
+		"id": "198 ",
+		"pregunta": "QUIEN ES MIRA ",
+		"respuesta": "ENTRENADOR DE MASCOTAS  "
+	},
+	{
+		"id": "199 ",
+		"pregunta": "QUE MASCOTA PUEDE SER PATRONA DE ISAAC ",
+		"respuesta": "AXEL, MARA, OLIVER  "
+	},
+	{
+		"id": "200 ",
+		"pregunta": "QUE MASCOTA PUEDE SER PATRONA DE ALVANOR ",
+		"respuesta": "BISCUIT  "
+	},
+	{
+		"id": "201 ",
+		"pregunta": "DONDE CRECE LA PLANTA DEL TE QUE PREPARA MARTHA ",
+		"respuesta": "LOS BOSQUES DE ZARAKKAR  "
+	},
+	{
+		"id": "202 ",
+		"pregunta": "CUAL ES EL NIVEL MAXIMO DE JEFE DE INCURSION DEL GREMIO DEL JUEGO ",
+		"respuesta": "160  "
+	},
+	{
+		"id": "203 ",
+		"pregunta": "COMO SE LLAMA EL DEMONIO ATRAPADO EN EL ESCUDO DE RUFUS ",
+		"respuesta": "RAKASHI  "
+	},
+	{
+		"id": "204 ",
+		"pregunta": "CUAL DE ESTOS RECURSOS NO EXISTE ",
+		"respuesta": "INSIGNIA DE SANTIDAD  "
+	},
+	{
+		"id": "205 ",
+		"pregunta": "QUE HEROE FORJO LA ESPADA DE GALAHAD ",
+		"respuesta": "FAFNIR  "
+	},
+	{
+		"id": "206 ",
+		"pregunta": "CUAL DE ESTOS HEROES ES UN HIJO DE LAS ESTRELLAS ",
+		"respuesta": "HELIOS  "
+	},
+	{
+		"id": "207 ",
+		"pregunta": "CUANTAS AVENTURAS HAY EN EL JUEGO ",
+		"respuesta": "13  "
+	},
+	{
+		"id": "208 ",
+		"pregunta": "CUANTAS VECES PUEDES USAR GRATIS AL VIDENTE ESTELAR CADA SEMANA ",
+		"respuesta": "7  "
+	},
+	{
+		"id": "209 ",
+		"pregunta": "CUAL DE ESTOS HEROES SE TRANSFORMA EN GATO EN UNO DE SUS ASPECTOS ",
+		"respuesta": "CHABBA  "
+	},
+	{
+		"id": "210 ",
+		"pregunta": "CUANTAS VENTANAS PUEDES VER EN LA TIENDA DE LA PLAZA PRINCIPAL ",
+		"respuesta": "3  "
+	},
+	{
+		"id": "211 ",
+		"pregunta": "QUE HEROE TIENE UN ASPECTO QUE POTENCIA EL ATAQUE FISICO ",
+		"respuesta": "K’ARKH  "
+	},
+	{
+		"id": "212 ",
+		"pregunta": "COMO SE CONSIGUE EL MARCO DEL CAOS ",
+		"respuesta": "DERROTA 15 VECES AL JEFE DE AVENTURA 13  "
+	},
+	{
+		"id": "213 ",
+		"pregunta": "CUANTOS MIEMBROS DEL GREMIO PUEDEN PARTICIPAR EN CHOQUE DE MUNDOS ",
+		"respuesta": "30  "
+	},
+	{
+		"id": "214 ",
+		"pregunta": "QUE MASCOTA TIENE LA HABILIDAD QUE FRESQUITO ",
+		"respuesta": "BISCUIT  "
+	},
+	{
+		"id": "215 ",
+		"pregunta": "QUE TITAN USA LOS AVAMBRAZOS DE NEPHTIS ",
+		"respuesta": "MORT  "
+	},
+	{
+		"id": "216 ",
+		"pregunta": "QUE NO PUEDES CANJEAR CON LA ACTIVIDAD DE GREMIO ",
+		"respuesta": "POCIONES DE EXP  "
+	},
+	{
+		"id": "217 ",
+		"pregunta": "QUE TEMATICA DE ASPECTO NO EXISTE AUN ",
+		"respuesta": "ASPECTO SUREÑO  "
+	},
+	{
+		"id": "218 ",
+		"pregunta": "QUIEN TE ENVIA CORREOS CON ESMERALDAS PARA PROMOCIONAR A TUS HEROES ",
+		"respuesta": "WENDY  "
+	},
+	{
+		"id": "219 ",
+		"pregunta": "QUE EFECTOS DE ALTERACION OTORGAN LA CARGA MAXIMA DE LA PRIMERA HABILIDAD DE KHORUS ",
+		"respuesta": "SILENCIO  "
+	},
+	{
+		"id": "220 ",
+		"pregunta": "CUANTOS MENTORES HA TENIDO OSH, EL GUARDIAN ETERNO ",
+		"respuesta": "5  "
+	},
+	{
+		"id": "221 ",
+		"pregunta": "A QUE ESCUELA FUE SIN ROSTRO ",
+		"respuesta": "A LA ESCUELA DE MISTICOS  "
+	},
+	{
+		"id": "222 ",
+		"pregunta": "QUE HEROE NO USA UN BACULO ",
+		"respuesta": "MOJO  "
+	},
+	{
+		"id": "223 ",
+		"pregunta": "CUANTAS MASCOTAS ESTAN DISPONIBLES EN EL JUEGO ",
+		"respuesta": "10  "
+	},
+	{
+		"id": "224 ",
+		"pregunta": "QUE NIVEL DE MAZMORRA DEBES COMPLETAR PARA OBTENER UN MARCO DE PROFUNDIDADES PRIMORDIALES ",
+		"respuesta": "15000  "
+	},
+	{
+		"id": "225 ",
+		"pregunta": "A QUE NIVEL DESBLOQUEA EL JUGADOR ASGARD Y LAS INCURSIONES DEL GREMIO ",
+		"respuesta": "65  "
+	},
+	{
+		"id": "226 ",
+		"pregunta": "QUE ARMA EMPUÑA UNA VALKIRIA ",
+		"respuesta": "UNA LANZA  "
+	},
+	{
+		"id": "227 ",
+		"pregunta": "COMO SE LLAMA EL SUPER TITAN DE OSCURIDAD ",
+		"respuesta": "TENEBRIS  "
+	},
+	{
+		"id": "228 ",
+		"pregunta": "CUAL DE ESTOS TITANES ES DE LUZ ",
+		"respuesta": "IYARI  "
+	},
+	{
+		"id": "229 ",
+		"pregunta": "QUE HEROINA “POTENCIA” A SUS ENEMIGOS DURANTE LA BATALLA ",
+		"respuesta": "AMIRA  "
+	},
+	{
+		"id": "230 ",
+		"pregunta": "QUE SE OBTIENE AL VENDER OBJETOS DE EQUIPAMIENTO DE LOS HEROES ",
+		"respuesta": "ORO  "
+	},
+	{
+		"id": "231 ",
+		"pregunta": "QUIEN ES EL JEFE FINAL DE LA CAMPAÑA ",
+		"respuesta": "SEYMOUR  "
+	},
+	{
+		"id": "232 ",
+		"pregunta": "QUE HEROE TIENE LA HABILIDAD RUNA DE VIDA ",
+		"respuesta": "ALVANOR  "
+	},
+	{
+		"id": "233 ",
+		"pregunta": "QUIEN GANARIA EN LA GRAN ARENA SI NO SE DECLARA NINGUN GANADOR ANTES DE QUE TERMINE EL TIEMPO  ",
+		"respuesta": "EL DEFENSOR "
+	},
+	{
+		"id": "234 ",
+		"pregunta": "CUAL DE ESTAS MASCOTAS POTENCIA A HEROES QUE CAUSAN DAÑO REAL ",
+		"respuesta": "ALBUS  "
+	},
+	{
+		"id": "235 ",
+		"pregunta": "QUE HEROE TIENE MUSICA PROPIA EN EL JUEGO ",
+		"respuesta": "THEA  "
+	},
+	{
+		"id": "236 ",
+		"pregunta": "QUE HACE EL TOTEM DE LUZ ",
+		"respuesta": "EVITA QUE LOS ALIADOS MUERAN  "
+	},
+	{
+		"id": "237 ",
+		"pregunta": "CUAL DE ESTOS HEROES TIENE UNA ESPECIALIDAD DE INGENIERO ",
+		"respuesta": "ISAAC, GINGER, ZORRO  "
+	},
+	{
+		"id": "238 ",
+		"pregunta": "CUAL DE ESTOS HEROES TIENE ESPECIALIDAD BENDITOS ",
+		"respuesta": "GALAHAD, LUTHER, MARKUS, TRISTAN  "
+	},
+	{
+		"id": "239 ",
+		"pregunta": "CUAL DE ESTOS HEROES TIENE ESPECIALIDAD NO MUERTOS ",
+		"respuesta": "CORVUS, MORRIGAN, PHOBOS  "
+	},
+	{
+		"id": "240 ",
+		"pregunta": "CUAL DE ESTOS HEROES TIENE ESPECIALIDAD HERALDOS DEL FUEGO ",
+		"respuesta": "AIDAN, KAYLA  "
+	},
+	{
+		"id": "241 ",
+		"pregunta": "CUANTAS PIEDRAS DE ALMA CONTIENE EL COFRE DE PIEDRAS DE ALMA DE HEROE MENOR ",
+		"respuesta": "50  "
+	},
+	{
+		"id": "242 ",
+		"pregunta": "COMO SE LLAMA LA PRINCESA DROMMER ",
+		"respuesta": "ASTRID  "
+	},
+	{
+		"id": "243 ",
+		"pregunta": "A QUE NIVEL DE EQUIPO PUEDES OBTENER EL JOYERO DE GUARDIAN HONORABLE POR COMPLETAR ENCARGOS DIARIOS ",
+		"respuesta": "130  "
+	},
+	{
+		"id": "244 ",
+		"pregunta": "QUE MASCOTA AUMENTA LA PROBABILIDAD DE EVASION DE TODOS LOS HEROES CON SU SEGUNDA HABILIDAD ",
+		"respuesta": "CAIN  "
+	},
+	{
+		"id": "255 ",
+		"pregunta": "DURANTE QUE EVENTO NO SE PUEDEN CONSEGUIR PIEDRAS DE ASPECTO DE TITAN ",
+		"respuesta": "SINERGIA ELEMENTAL  "
+	},
+	{
+		"id": "256 ",
+		"pregunta": "QUE TITULO TIENE AURORA ",
+		"respuesta": "PALADINA DE RIVERSAR  "
+	},
+	{
+		"id": "257 ",
+		"pregunta": "QUE ESTADISTICA LES FALTA A LOS HEROES ",
+		"respuesta": "PRECISION  "
+	},
+	{
+		"id": "258 ",
+		"pregunta": "CUANTOS JUGADORES OBTIENEN MARCAS DE HONOR POR LA TITANITA OBTENIDA DURANTE EL DIA ",
+		"respuesta": "3  "
+	},
+	{
+		"id": "259 ",
+		"pregunta": "QUE NO SE PUEDE COMPRAR EN LA TIENDA DE GUERRA DE GREMIOS ",
+		"respuesta": "RUNA DE ENCANTAMIENTO BUENA  "
+	},
+	{
+		"id": "260 ",
+		"pregunta": "DONDE COMIENZA EL VIAJE DE LOS HEROES ",
+		"respuesta": "SENDA DE CENIZAS  "
+	},
+	{
+		"id": "261 ",
+		"pregunta": "QUE TEMPORADA NO OFRECE RECUPERACION DE ENERGIA X3 COMO RECOMPENSA ",
+		"respuesta": "LA TEMPORADA ASTRAL  "
+	},
+	{
+		"id": "262 ",
+		"pregunta": "CUANTOS POTENCIADORES DIARIOS PUEDES TENER ACTIVOS AL MISMO TIEMPO EN LAS AVENTURAS ",
+		"respuesta": "3  "
+	},
+	{
+		"id": "263 ",
+		"pregunta": "LOS TITANES DE QUE ROL NO TIENEN ASPECTOS DE CAMPEON ",
+		"respuesta": "TIRADORES  "
+	},
+	{
+		"id": "264 ",
+		"pregunta": "A QUIEN SIRVEN LOS TITANES DE LUZ ",
+		"respuesta": "BELAV  "
+	},
+	{
+		"id": "265 ",
+		"pregunta": "QUE ARMA ES NOBLE ",
+		"respuesta": "LA AMETRALLADORA DE GINGER  "
+	},
+	{
+		"id": "266 ",
+		"pregunta": "CUANTOS INTENTOS HAY PARA DERROTAR A OSH EN LA INCURSION DEL GREMIO ",
+		"respuesta": "5  "
+	},
+	{
+		"id": "267 ",
+		"pregunta": "CUAL DE ESTOS HEROES NO TIENE EL ESPECIAL DE LOS BENDITOS ",
+		"respuesta": "AURORA  "
+	},
+	{
+		"id": "268 ",
+		"pregunta": "QUE MASCOTA ACELERA LAS HABILIDADES MAGICAS DE SU DUEÑO ",
+		"respuesta": "MERLIN  "
+	},
+	{
+		"id": "269 ",
+		"pregunta": "QUE RECURSOS NECESITAS PARA COMPRAR POTENCIADORES TEMPORALES DE INCURSION DEL GREMIO ",
+		"respuesta": "ORO O EMBLEMAS DE VALOR  "
+	},
+	{
+		"id": "270 ",
+		"pregunta": "QUE HEROE TIENE UN MURCIELAGO POR FAMILIAR ",
+		"respuesta": "DORIAN  "
+	},
+	{
+		"id": "271 ",
+		"pregunta": "EN SU ASPECTO DE MASCARADA, CUAL DE ESTOS HEROES USA UN BACULO DE GATO ",
+		"respuesta": "CORNELIUS  "
+	},
+	{
+		"id": "272 ",
+		"pregunta": "CUANTOS INTENTOS DE ATAQUE DIARIOS TIENE UN CAMPEON EN UNA GUERRA DE GREMIOS ",
+		"respuesta": "2  "
+	},
+	{
+		"id": "273 ",
+		"pregunta": "CUANTO TIEMPO TIENE QUE PASAR HASTA QUE PUEDA VOLVER A RECLAMAR ENERGIA GRATIS EN EL ENCARGO DIARIO ",
+		"respuesta": "1 HORA  "
+	},
+	{
+		"id": "274 ",
+		"pregunta": "QUE HEROE TIENE COMO ROL PRIMARIO APOYO ",
+		"respuesta": "NEBULOSA  "
+	},
+	{
+		"id": "275 ",
+		"pregunta": "CUAL ES EL NIVEL MAXIMO DEL REGALO DE LOS ELEMENTOS QUE UN HEROE PUEDE TENER ",
+		"respuesta": "30  "
+	},
+	{
+		"id": "276 ",
+		"pregunta": "QUE ALMA DE TITAN NO PUEDES CONSEGUIR EN UNA VICTORIA DE MAZMORRA ",
+		"respuesta": "EDEN  "
+	},
+	{
+		"id": "277 ",
+		"pregunta": "QUE CONSIGUES A CAMBIO DE MONEDAS DE CALAVERA EN EL PISO 50 DE LA TORRE ",
+		"respuesta": "ORO  "
+	},
+	{
+		"id": "278 ",
+		"pregunta": "QUE HEROINA EXPONE PARTE DEL ALMA EN EL CUERPO DEL ENEMIGO ",
+		"respuesta": "IRIS  "
+	},
+	{
+		"id": "279 ",
+		"pregunta": "QUE SE HACE CON LAS PARTICULAS DE CAOS ",
+		"respuesta": "CARGAR LA GEMA DE UNA MASCOTA  "
+	},
+	{
+		"id": "280 ",
+		"pregunta": "A PARTIR DE QUE RANGO PUEDES PUNTUAR A UN HEROE PARA RECIBIR 50 ESMERALDAS ",
+		"respuesta": "NARANJA +4  "
+	},
+	{
+		"id": "281 ",
+		"pregunta": "QUE NO PUEDES ENCONTRAR EN EL COFRE DE ARTEFACTO ",
+		"respuesta": "LLAVE DE COFRE DE ARTEFACTO  "
+	},
+	{
+		"id": "282 ",
+		"pregunta": "QUE HABILIDAD OBTUVO CORNELIUS DURANTE SU CAUTIVERIO EN MANOS DE MAGOS OSCUROS ",
+		"respuesta": "SUPRESION DE MAGIA  "
+	},
+	{
+		"id": "283 ",
+		"pregunta": "CUANTOS ENEMIGOS DEBO DERROTAR PARA PASAR A LA ETAPA 2 DEL TORNEO DE LOS ELEMENTOS ",
+		"respuesta": "5  "
+	},
+	{
+		"id": "284 ",
+		"pregunta": "QUE HEROE REGRESO DE ENTRE LOS MUERTOS ",
+		"respuesta": "KEIRA  "
+	},
+	{
+		"id": "285 ",
+		"pregunta": "QUE TITULO TIENE TENEBRIS ",
+		"respuesta": "ENCARNACION OSCURA  "
+	},
+	{
+		"id": "286 ",
+		"pregunta": "QUE HEROE NO VIENE DE FUERA DE DOMINION ",
+		"respuesta": "ARACHNE  "
+	},
+	{
+		"id": "287 ",
+		"pregunta": "CUAL DE ESTOS RECURSOS NO EXISTE ",
+		"respuesta": "INSIGNIA DE SANTIDAD  "
+	},
+	{
+		"id": "288 ",
+		"pregunta": "QUE CLASE DE MAGIA TIENE DORIAN ",
+		"respuesta": "MAGIA DE SANGRE  "
+	},
+	{
+		"id": "289 ",
+		"pregunta": "QUE NO PUEDES ENCONTRAR EN EL COFRE DE PIEDRA DE ASPECTO ",
+		"respuesta": "PIEDRA DE ASPECTO DE AGUANTE  "
+	},
+	{
+		"id": "290 ",
+		"pregunta": "QUE INSIGNIA SE REQUIERE PARA ASCENDER A HEROES CURYO ROL PRIMARIO SEA CONTROL ",
+		"respuesta": "LA INSIGNIA DE DETERMINACION  "
+	},
+	{
+		"id": "300 ",
+		"pregunta": "CUAL ES LA RELACION ENTRE LA ENERGIA GASTADA Y PUNTOS DE ACTIVIDAD DEL GREMIO ",
+		"respuesta": "1 A 1  "
+	},
+	{
+		"id": "301 ",
+		"pregunta": "QUE SE PUEDE OBTENER COMO RECOMPENSA POR PUNTOS DE LA TORRE ",
+		"respuesta": "ORO Y MONEDAS DE LA TORRE  "
+	},
+	{
+		"id": "302 ",
+		"pregunta": "COMO SE LLAMA EL PLANETA NATAL DE K’ARKH ",
+		"respuesta": "DAGAN-NUHR  "
+	},
+	{
+		"id": "303 ",
+		"pregunta": "QUE TIENDA NO APARECE EN EL JUEGO ",
+		"respuesta": "TIENDA AMOROSA  "
+	},
+	{
+		"id": "304 ",
+		"pregunta": "QUE SE PUEDE COMPRAR CON MONEDAS DEL TORNEO ELEMENTAL ",
+		"respuesta": "FRAGMENTOS DE ARTEFACTO DE TITAN "
+	},
+	{
+		"id": "305 ",
+		"pregunta": "QUE GRAN PREMIO PUEDES OBTENER EN UN COFRE DE ARTEFACTO ",
+		"respuesta": "NUCLEOS DE CAOS Y MONEDAS DE ARTEFACTO  "
+	},
+	{
+		"id": "306 ",
+		"pregunta": "DE CUANTO ES LA ESPERA ENTRE TEMPORADA DE CHOQUE DE MUNDOS ",
+		"respuesta": "UNA SEMANA  "
+	},
+	{
+		"id": "307 ",
+		"pregunta": "CUAL ES LA DIFICULTAD MAXIMA DISPONIBLE PARA LA INCURSION DEL GREMIO ",
+		"respuesta": "150  "
+	},
+	{
+		"id": "308 ",
+		"pregunta": "QUE OPCION DE VELOCIDAD NO ESTA DISPONIBLE EN MISIONES DE CAMPAÑA ",
+		"respuesta": "X 0,5  "
+	},
+	{
+		"id": "309 ",
+		"pregunta": "A PARTIR DE QUE NIVEL ESTAN DISPONIBLES LAS AVENTURAS ",
+		"respuesta": "40  "
+	},
+	{
+		"id": "310 ",
+		"pregunta": "QUE RECURSO NO APARECE COMO RECOMPENSA DE UNA INCURSION DEL GREMIO ",
+		"respuesta": "CRISTAL DE SABIDURIA ANCESTRAL  "
+	},
+	{
+		"id": "311 ",
+		"pregunta": "QUE MARCO DE AVATAR NO APARECE EN EL JUEGO ",
+		"respuesta": "MARCO DEL CUSTODIO DE LA TORRE  "
+	},
+	{
+		"id": "312 ",
+		"pregunta": "QUE TITAN AUMENTA LA SALUD MAXIMA DE LOS ALIADOS ",
+		"respuesta": "SOLARIS  "
+	},
+	{
+		"id": "313 ",
+		"pregunta": "COMO SE LLAMA EL TRAJE MECANICO DE JULIUS ",
+		"respuesta": "FELIX  "
+	},
+	{
+		"id": "314 ",
+		"pregunta": "DONDE SE PUEDEN USAR LOS MOVIMIENTOS DE EXPLORACION ",
+		"respuesta": "ISLA MISTERIOSA  "
+	},
+	{
+		"id": "315 ",
+		"pregunta": "HASTA CUANTO SE PUEDE AUMENTAR EL INDICE DE OBTENCION DE UN HEROE EN EL ATRIO DE LAS ALMAS ",
+		"respuesta": "250%  "
+	},
+	{
+		"id": "316 ",
+		"pregunta": "QUE HABILIDAD NO PERTENECE A POLARIS ",
+		"respuesta": "CONGELACION PROFUNDA  "
+	},
+	{
+		"id": "317 ",
+		"pregunta": "QUE ES LA VELETA DEL TEJADO DE LA TIENDA DE LA PLAZA PRINCIPAL ",
+		"respuesta": "UN DRAGON  "
+	},
+	{
+		"id": "318 ",
+		"pregunta": "CUAL DE ESTOS HEROES NO TIENE HABILIDAD DE ASCENSION ",
+		"respuesta": "GALAHAD  "
+	},
+	{
+		"id": "319 ",
+		"pregunta": "QUE RECURSO NECESITAS PARA COMPRAR PIEDRAS DE ASCENSO DE MASCOTAS ",
+		"respuesta": "PARTICULAS DEL CAOS  "
+	},
+	{
+		"id": "320 ",
+		"pregunta": "CUANTO ORO SE NECESITA PARA QUITAR UN DISEÑO BLANCO DE UNA BANDERA DE GUERRA ",
+		"respuesta": "0  "
+	},
+	{
+		"id": "321 ",
+		"pregunta": "QUE TROFEOS DE GUERRA DE GREMIOS PUEDES CANJEAR POR EL ASPECTO DE CAMPEON DE CLEAVER ",
+		"respuesta": "ORO  "
+	},
+	{
+		"id": "322 ",
+		"pregunta": "QUE ES MORRIGAN PARA CORVUS ",
+		"respuesta": "HIJA  "
+	},
+	{
+		"id": "323 ",
+		"pregunta": "DE QUE HEROE SE GARANTIZA SU OBTENCION TRAS INVOCAR 350 VECES EN EL ATRIO DE LAS ALMAS ",
+		"respuesta": "TAJADOR  "
+	},
+	{
+		"id": "324 ",
+		"pregunta": "CUANTOS DISEÑOS SE PUEDEN PONER EN UNA BANDERA DE GUERRA COMO MAXIMO ",
+		"respuesta": "3  "
+	},
+	{
+		"id": "325 ",
+		"pregunta": "QUE TITAN NO PUEDE ATURDIR ENEMIGOS ",
+		"respuesta": "ANGUS  "
+	},
+	{
+		"id": "326 ",
+		"pregunta": "CUANTOS DISEÑOS BLANCOS IDENTICOS SE NECESITAN PARA CONSEGUIR EL PRIMERO VIOLETA ",
+		"respuesta": "8  "
+	},
+	{
+		"id": "327 ",
+		"pregunta": "EL CORTO ANIMADO “EL HEROE PERDIDO” REVELA EL NOMBRE ANTERIOR DEL ARCHIDEMONIO. CUAL ES ",
+		"respuesta": "GARETH  "
+	},
+	{
+		"id": "328 ",
+		"pregunta": "QUE HEROE DE APOYO TIENE FUERZA COMO ESTADISTICA PRINCIPAL ",
+		"respuesta": "FAFNIR  "
+	},
+	{
+		"id": "329 ",
+		"pregunta": "CUAL DE ESTOS HEROES OBTIENE CARGA EN VEZ DE ENERGIA ",
+		"respuesta": "ISAAC  "
+	},
+	{
+		"id": "330 ",
+		"pregunta": "COMO SE LLAMA EL SER QUERIDO DE LIAN / COMO SE LLAMA EL ENAMORADO DE LIAN ",
+		"respuesta": "HIROSHI  "
+	}
+]
